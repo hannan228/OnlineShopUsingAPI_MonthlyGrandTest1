@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/category_textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="all"
+        android:textSize="16sp"
+
+        android:textColor="@color/orange_500"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/margin_10"
+        android:padding="15dp"
+        />
+</LinearLayout>
