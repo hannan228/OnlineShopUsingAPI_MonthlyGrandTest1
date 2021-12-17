@@ -9,6 +9,5 @@ https://fakestoreapi.com/docs
 6: Limit Product (https://fakestoreapi.com/products?limit=)
 7: Get Specific Category (https://fakestoreapi.com/products/category/jewelery)
 8: Product Sorting (https://fakestoreapi.com/products?sort=desc)
-## heading
-![Free For Review](https://user-images.githubusercontent.com/54198996/146499515-2234498d-fcc7-483d-8388-31246436ee42.png)
-![Untitled3](https://user-images.githubusercontent.com/54198996/146499873-6feac2c0-edc4-496f-a602-84359aa20ace.png)
+## Image
+![screenshot of Dashboard and login](https://user-images.githubusercontent.com/54198996/146570303-3a252abe-b064-4009-8546-ee7eac2817ba.png)
